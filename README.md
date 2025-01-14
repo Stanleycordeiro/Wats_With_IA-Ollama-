@@ -1,5 +1,5 @@
 # WPP_with_IA
-Whatsapp integrado com IA (WwebJs + Ollama 3.1 local)
+Whatsapp integrado com IA (WwebJs + Ollama 3.2 local)
 
 Whats app integrado a IA Ollama através da aplicação opensource WwebJs.
 
